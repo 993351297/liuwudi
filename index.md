@@ -1,37 +1,14 @@
 ## 无敌是多么的寂寞-刘国振
 
-You can use the [editor on GitHub](https://github.com/993351297/liuwudi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+作为宇宙之巅的人，他的终极形态非常完美[<神圣天使>](https://github.com/993351297/liuwudi/edit/master/index.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+无敌是多么 多么寂寞
+无敌是多么 多么空虚
+独自在顶峰中 冷风不断的吹过
+我的寂寞 谁能明白我
+无敌是多么 多么寂寞
+无敌是多么 多么空虚
+躲在天边的她 可不可听我诉说
+我的寂寞 无尽的寂寞
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/993351297/liuwudi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
